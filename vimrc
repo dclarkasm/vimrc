@@ -1,3 +1,9 @@
+" * * * * * * * * * * *
+" vimrc
+" Author: Devon CLark
+" Year: 2017
+" * * * * * * * * * * *
+
 set number " Line numbers
 set hls " Highlighted search
 syntax on " Simple syntax recognition
